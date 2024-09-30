@@ -156,7 +156,7 @@
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3ec37988-3e26-439e-8b84-9b9464e167d3)
 
 
 ## RESULT:
